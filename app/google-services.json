@@ -1,36 +1,27 @@
 {
   "project_info": {
-    "project_number": "936494095561",
-    "project_id": "av-messenger-dc8f3",
-    "storage_bucket": "av-messenger-dc8f3.appspot.com"
+    "project_number": "999456913339",
+    "firebase_url": "https://av-messenger-9ce87-default-rtdb.firebaseio.com",
+    "project_id": "av-messenger-9ce87",
+    "storage_bucket": "av-messenger-9ce87.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:936494095561:android:4d1bea30267042f0a4c118",
+        "mobilesdk_app_id": "1:999456913339:android:bee25b8d6bc1605c9a369e",
         "android_client_info": {
           "package_name": "com.av.avmessenger"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "936494095561-7fru4bqd3l5khgr6jsposog1tn4huc9h.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBQY3xfEFrotwEt-ZbH661OIKjvKneAFUg"
+          "current_key": "AIzaSyBvkpuUrD0t1HJP-84QrNemoveQ8n5YvGI"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "936494095561-7fru4bqd3l5khgr6jsposog1tn4huc9h.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
